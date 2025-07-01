@@ -77,3 +77,7 @@ crashlytics-build.properties
 # Re-importable text mesh pro components
 /[Aa]ssets/TextMesh Pro/
 /[Aa]ssets/TextMesh Pro.meta
+
+# Addressable link data
+/Assets/AddressableAssetsData/link.xml
+/Assets/AddressableAssetsData/link.xml.meta
