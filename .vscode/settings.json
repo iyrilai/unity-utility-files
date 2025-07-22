@@ -58,6 +58,5 @@
         ".vscode/": true,
         "Packages/": true
     },
-    "dotnet.defaultSolution": "Cricket-Manager.sln",
     "vstuc.refreshOnSave": true,
 }
